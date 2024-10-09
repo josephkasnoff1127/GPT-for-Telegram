@@ -33,7 +33,7 @@ you can add as many route to nodes.py these nodes will be assessed in router_llm
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/emingenc/telegramGPT.git
+git clone https://github.com/josephkasnoff1127/telegramGPT.git
 cd telegramGPT
 ```
 
@@ -66,7 +66,7 @@ Before diving into the code, you'll need to create a new bot on Telegram. Follow
 Clone the code repository from GitHub using the following command:
 
 ```bash
-git clone https://github.com/emingenc/telegramGPT.git
+git clone https://github.com/josephkasnoff1127/telegramGPT.git
 cd telegramGPT
 ```
 
